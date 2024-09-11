@@ -1,2 +1,2 @@
 # P3
- a good minigame
+ This minigame was made in 48h gamejam 
